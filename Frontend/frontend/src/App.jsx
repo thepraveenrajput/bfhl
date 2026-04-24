@@ -15,7 +15,7 @@ function App() {
     try {
       const data = input.split(",").map(i => i.trim());
 
-      const res = await fetch("http://localhost:3000/bfhl", {
+      const res = await fetch("https://bfhl-backend-bqt2.onrender.com/bfhl", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
