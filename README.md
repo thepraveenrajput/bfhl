@@ -4,10 +4,8 @@ A full-stack web application that processes hierarchical relationships and visua
 
 ---
 
-## 🚀 Live Demo (To be added after deployment)
-
-Frontend: *Coming soon*
-Backend API: *Coming soon*
+* Deployment (Render + Vercel)
+* UI improvements (optional)
 
 ---
 
@@ -157,9 +155,8 @@ A->B, A->C, B->D, C->E, E->F, X->Y, Y->Z, Z->X
 * Recursive tree building
 * Depth calculation using max path
 
----
-* Deployment (Render + Vercel)
-* UI improvements (optional)
+
+
 ---
 ## 👤 Author
 
